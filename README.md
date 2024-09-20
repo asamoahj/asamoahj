@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently researching how to leverage AI to develop autonomous systems that secure visual computing processes, such as computer vision applications in drones or autonomous vehicles
+I am currently researching how to leverage AI to augment computer systems and architecture.
 
 
 ## 🌐 Socials:
